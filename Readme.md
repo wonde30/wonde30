@@ -1,5 +1,6 @@
 <div align="center">
-<img width="250" height="290" alt="image" src="https://github.com/user-attachments/assets/ec7ba2f8-de57-411e-b41f-cffa49a4ebaa" />
+<img width="525" height="350" alt="image" src="https://github.com/user-attachments/assets/8a852baf-ce86-4dd8-b89c-5cdfb129a577" />
+
 
 **Full-stack developer building Laravel/Vue.js web apps, Java desktop tools, and IT support solutions — based in Addis Ababa, Ethiopia.**
 
